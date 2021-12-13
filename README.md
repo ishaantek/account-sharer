@@ -1,5 +1,5 @@
 # Account Sharer
-<br><br>
+
 The most powerful account sharer for Chrome 💎
 [Get it now - it's free!](https://chrome.google.com/webstore)
 
