@@ -9,9 +9,9 @@ Made by [Ishaan Garg](https://www.allaboutishaan.com)
 ## Table of contents
 - [Account Sharer](#account-sharer)
   - [Table of contents](#table-of-contents)
-    - [Use](#use)
-    - [How it works](#how-it-works)
-### Use
+  - [Use](#use)
+  - [How it works](#how-it-works)
+## Use
 
 1. Ask the recipient for their code (found on the extension menu `RECEIVE ACCOUNT`) 
 2. Go to the site from where you want to share the account and click the extension icon.
@@ -22,7 +22,7 @@ Made by [Ishaan Garg](https://www.allaboutishaan.com)
 :tophat:
 **Voilà**
 
-### How it works
+## How it works
 
 The extension uses the Standford Javascript Crypto Lib implementation of EC-ElGamal. It generates a new public-private key combination for each extension upon first use and uses it to encrypt/decrypt the session.
 
