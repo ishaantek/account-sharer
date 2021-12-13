@@ -1,5 +1,3 @@
-# Account Sharer
-<br>
 The most powerful account sharer for Chrome 💎
 [Get it now - it's free!](https://chrome.google.com/webstore)
 
@@ -8,10 +6,9 @@ Account Sharer is a Chrome Extension to share your account **without** giving ou
 Made by [Ishaan Garg](https://www.allaboutishaan.com)
 
 ## Table of contents
-- [Account Sharer](#account-sharer)
-  - [Table of contents](#table-of-contents)
-  - [Use](#use)
-  - [How it works](#how-it-works)
+- [Table of contents](#table-of-contents)
+- [Use](#use)
+- [How it works](#how-it-works)
 ## Use
 
 1. Ask the recipient for their code (found on the extension menu `RECEIVE ACCOUNT`) 
