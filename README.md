@@ -6,6 +6,8 @@ Account Sharer is a Chrome Extension to share your account **without** giving ou
 
 Made by [Ishaan Garg](https://www.allaboutishaan.com)
 
+<a href="https://www.producthunt.com/posts/account-sharer?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-account-sharer" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=323123&theme=dark" alt="Account Sharer - Share your account without giving out your password. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ## Table of contents
 - [Account Sharer](#account-sharer)
   - [Table of contents](#table-of-contents)
