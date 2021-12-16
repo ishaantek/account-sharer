@@ -1,15 +1,15 @@
 {
-  "name": "ShareAccount",
-  "version": "1.0.0",
+  "name": "Account Sharer",
+  "version": "0.0.2",
   "description": "Share your current account with others without revealing your password, securely.",
   "main": "popup/main.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git@github.com:NicoSantangelo/shareaccount.git"
+    "url": "git@github.com:allaboutishaan/shareaccount.git"
   },
-  "author": "Nicolás Santángelo",
-  "homepage": "https://github.com/NicoSantangelo/shareaccount",
+  "author": "Ishaan Garg",
+  "homepage": "https://github.com/allaboutishaan/shareaccount",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-htmlmin": "^3.0.0",

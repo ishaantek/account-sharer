@@ -1,6 +1,6 @@
 # Account Sharer
 The most powerful account sharer for Chrome 💎 <br><br>
-[Get it now - it's free!](https://chrome.google.com/webstore)
+[Get it now - it's free!](https://chrome.google.com/webstore/detail/account-sharer/ickmhacpabgcbnefffalhfodifihmnfa)
 
 Account Sharer is a Chrome Extension to share your account **without** giving out your **password**.
 
