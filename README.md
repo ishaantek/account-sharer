@@ -33,4 +33,4 @@ Appart for the keys, it doesn't store anything more than the URL/title of the se
 If you want to be extra careful, you can always regenerate your keys on the extension.
 
 #
- Feel free to reach out to me through email at ishaan@allaboutishaan.com or [on Twitter](https://twitter.com/allaboutishaan) if you have any questions or feedback! Hope you find this useful 💙
+ Feel free to reach out to me through email at ishaan@ishaantek.com or [on Twitter](https://twitter.com/ishaantek) if you have any questions or feedback! Hope you find this useful 💙
